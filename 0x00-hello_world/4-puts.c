@@ -4,7 +4,7 @@
  *   initialize the strings
  *   write the strings out
  *   Return:if no error return zero, otherrwise return non zero value
- *   */
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
